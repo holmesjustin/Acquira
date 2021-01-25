@@ -1,3 +1,3 @@
 # Acquira
 
-This is the YelpScrape privately stored for Acquira's future use.
+This is the Yelp scraper program stored for Acquira's future use should they need it.
